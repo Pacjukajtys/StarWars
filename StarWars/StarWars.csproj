@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>aspnet-StarWars-800E9CC5-82EC-4DFE-9AE0-9613FED3545A</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\20200426201320_migrtion.cs" />
+    <Compile Remove="Data\20200426201320_migrtion.Designer.cs" />
+    <Compile Remove="Data\Migrations\20200427070810_allmigall.cs" />
+    <Compile Remove="Data\Migrations\20200427070810_allmigall.Designer.cs" />
+    <Compile Remove="Data\Migrations\20200427071216_migal.cs" />
+    <Compile Remove="Data\Migrations\20200427071216_migal.Designer.cs" />
+    <Compile Remove="Data\Migrations\20200427081528_Migfinish.cs" />
+    <Compile Remove="Data\Migrations\20200427081528_Migfinish.Designer.cs" />
+    <Compile Remove="Models\Episode.cs" />
+    <Compile Remove="Models\FriendCharacter.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.3.1" />
+    <PackageReference Include="System.ServiceProcess.ServiceController" Version="4.7.0" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
+</Project>

@@ -1,0 +1,114 @@
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.deps.json
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.json
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.dev.json
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csprojAssemblyReference.cache
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cache
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfoInputs.cache
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorTargetAssemblyInfo.cache
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.genruntimeconfig.cache
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\Verso\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.deps.json
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.json
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.dev.json
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csprojAssemblyReference.cache
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cache
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfoInputs.cache
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorTargetAssemblyInfo.cache
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\Verso\SW_8\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.genruntimeconfig.cache
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.deps.json
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.json
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.dev.json
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csprojAssemblyReference.cache
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cache
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfoInputs.cache
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorTargetAssemblyInfo.cache
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\Verso\SW_11\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.genruntimeconfig.cache
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.deps.json
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.json
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.dev.json
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csprojAssemblyReference.cache
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cache
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfoInputs.cache
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorTargetAssemblyInfo.cache
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\Verso\12\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.genruntimeconfig.cache
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.deps.json
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.json
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.dev.json
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csprojAssemblyReference.cache
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cache
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfoInputs.cache
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfo.cs
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorTargetAssemblyInfo.cache
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\Verso\14\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.genruntimeconfig.cache
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csprojAssemblyReference.cache
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cache
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorAssemblyInfo.cs
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfoInputs.cache
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.AssemblyInfo.cs
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.deps.json
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.json
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.runtimeconfig.dev.json
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\bin\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.RazorTargetAssemblyInfo.cache
+C:\Users\Norbert\Desktop\wersja ostatnia\SW\StarWars\StarWars\obj\Debug\netcoreapp2.1\StarWars.genruntimeconfig.cache
